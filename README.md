@@ -42,4 +42,4 @@ Team Work, Problem Solving, Analytical Thinking, Adaptability, Communication (En
 ## 📫 Contact Me
 - 📧 Email: sp.john.manuel737@gmail.com
 - 💼 LinkedIn: [John Manuel](www.linkedin.com/in/john-manuel-selvin-peter-1998a7234)  
-- 🌐 Portfolio Website: [John Manuel](https://lonecoyote737.github.io)  
+- 🌐 Portfolio Website: [John Manuel](https://github.com/LoneCoyote737)  
