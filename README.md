@@ -41,11 +41,11 @@
   ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)  
 
 - **Other Skills:**  
-  -🤝 Team Work  
-  -🧩 Problem Solving  
-  -📊 Analytical Thinking  
-  -🔄 Adaptability  
-  -🌐 Communication (English, Tamil, Sinhala)  
+  - 🤝 Team Work  
+  - 🧩 Problem Solving  
+  - 📊 Analytical Thinking  
+  - 🔄 Adaptability  
+  - 🌐 Communication (English, Tamil, Sinhala)  
 
 ---
 
