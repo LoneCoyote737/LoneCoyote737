@@ -5,7 +5,9 @@
 ---
 
 ## 🚀 Projects
-- [📘 BookHive](https://github.com/yourusername/bookhive)  
+- [📘 BookHive]
+- [Backend](https://github.com/Benshekniel/BookHiveBackend)
+- [Frontend](https://github.com/Benshekniel/BookHiveFrontend) 
   *A smart platform for lending, selling, and exchanging books.*
 - [🐶 VetiPlus](https://github.com/ravidu001/VetiPlusMVC)  
   *A web system connecting pet owners with vets and salons.*
