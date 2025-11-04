@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 Projects
-- [📘 BookHive]
+- 📘 BookHive
 - [Backend](https://github.com/Benshekniel/BookHiveBackend)
 - [Frontend](https://github.com/Benshekniel/BookHiveFrontend)  
   *A smart platform for lending, selling, and exchanging books.*
